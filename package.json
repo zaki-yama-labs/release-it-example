@@ -9,6 +9,8 @@
     "release": "release-it"
   },
   "devDependencies": {
-    "release-it": "^7.4.1"
+    "release-it": "^7.4.1",
+    "webpack": "^4.6.0",
+    "webpack-cli": "^2.0.14"
   }
 }
