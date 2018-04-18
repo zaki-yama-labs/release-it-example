@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "https://github.com/zaki-yama/release-it-example.git",
   "author": "Shingo Yamazaki <shingoyamazaki00@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "release-it": "^7.4.1"
+  }
 }
