@@ -1,5 +1,4 @@
 {
-  "increment": "conventional:angular",
   "src": {
     "tagName": "v%s"
   },
