@@ -1,6 +1,6 @@
 {
   "name": "release-it-example",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "main": "index.js",
   "repository": "https://github.com/zaki-yama/release-it-example.git",
   "author": "Shingo Yamazaki <shingoyamazaki00@gmail.com>",
